@@ -1,6 +1,6 @@
 # Git Demo: Anna Liner
 
-Actually learning Git!
+Actually learning Git!!!!!!!!!!!!
 
 Learn cool stuff
 
@@ -10,3 +10,7 @@ Learn cool stuff
 - git push
 - git clone
 - git push
+
+## Kool Stuff
+
+- learning branching
